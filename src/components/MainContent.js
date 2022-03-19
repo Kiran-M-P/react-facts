@@ -1,7 +1,6 @@
 export default function MainContent() {
   return (
     <div className="main-content">
-      {/* <img src="react-trans.png" className="bg-image"></img> */}
       <h1>Fun facts about React</h1>
       <ul>
         <li>Was first released in 2013</li>
